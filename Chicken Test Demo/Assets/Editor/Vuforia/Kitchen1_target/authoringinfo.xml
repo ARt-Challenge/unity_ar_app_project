@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-44.0195 -1.8758 18.0020 -18.3248 1.1697 43.1246" targetId="a5c0d5e360c14cd4ad08170fbcdf02b0" name="Kitchen1_target" pathAuthoring="a5c0d5e360c14cd4ad08170fbcdf02b0_authoring.3dt" pathOcclusion="a5c0d5e360c14cd4ad08170fbcdf02b0_occlusion.3dt" pathNavMesh="a5c0d5e360c14cd4ad08170fbcdf02b0_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
